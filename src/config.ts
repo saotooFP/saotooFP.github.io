@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
+  name: "Stella Otoo",
   title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Portfolio website of Stella Otoo",
   accentColor: "#1d4ed8",
   social: {
     email: "your-email@example.com",
@@ -69,7 +69,7 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
+      school: "Michigan Tech University",
       degree: "Bachelor of Science in Computer Science",
       dateRange: "2014 - 2018",
       achievements: [
